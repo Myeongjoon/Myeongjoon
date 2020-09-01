@@ -1,5 +1,6 @@
 ### Backend Software Engineer 👋
 
+[linkedin](https://www.linkedin.com/in/%EB%AA%85%EC%A4%80-%EA%B9%80-1a489abb/)
 <!--
 **Myeongjoon/Myeongjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
