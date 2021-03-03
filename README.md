@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![sesang06's github stats](https://github-readme-stats.vercel.app/api?username=Myeongjoon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Myeongjoon's github stats](https://github-readme-stats.vercel.app/api?username=Myeongjoon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
