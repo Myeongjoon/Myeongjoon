@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![Myeongjoon's github stats](https://github-readme-stats.vercel.app/api?username=Myeongjoon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joon8409)](https://solved.ac/joon8409)
